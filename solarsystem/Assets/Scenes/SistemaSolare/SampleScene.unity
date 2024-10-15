@@ -1,11 +1,8 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:5fa51a5f4669b8d13838c315d9c06f91967fcdcf2c46baa3a4cc71084a6ab414
 size 130150
 =======
-=======
->>>>>>> parent of 4691256 (Asteroids Packages)
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!29 &1
@@ -5462,7 +5459,4 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 685081875}
   - {fileID: 447906703}
-<<<<<<< HEAD
->>>>>>> parent of 4691256 (Asteroids Packages)
-=======
 >>>>>>> parent of 4691256 (Asteroids Packages)
